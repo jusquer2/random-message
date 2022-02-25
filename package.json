@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/jusquer2/random-message/issues"
   },
-  "homepage": "https://github.com/jusquer2/random-message#readme"
+  "homepage": "https://github.com/jusquer2/random-message#readme",
+  "optionalDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
